@@ -36,6 +36,5 @@ The dataset contains comprehensive loan data from 2007 to 2011, encompassing app
 - Seaborn
 
 ## Contacts
-Created by @tarun4568 - feel free to contact me!
-Created by [@username] - feel free to contact me!
+Created by [@hitainkakkar72](https://github.com/hitainkakkar72) and [@tarun4568](https://github.com/tarun4568) feel free to contact me!
 
