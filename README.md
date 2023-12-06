@@ -1,4 +1,4 @@
-# Lending-Case-Study-Hitain-Kakkar-Tarun-Khaneja
+# Lending-Club-Case-Study-Hitain-Kakkar-Tarun-Khaneja
 
 ## Project Description:
 
