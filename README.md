@@ -15,8 +15,10 @@ This project revolves around leveraging Exploratory Data Analysis (EDA) techniqu
 
 ### Project Background:
 This project involves analyzing loan applicant data from a consumer finance company operating between 2007 and 2011.
+### Project Statement
+You work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 ### Business Problem:
-The primary objective is to identify patterns within the dataset that can predict loan defaults. The aim is to help the company make informed decisions regarding loan approvals, minimizing the risk of defaults while maximizing profitable loan approvals.
+The primary objective is to identify patterns within the dataset that can help in analyzing loan defaults. The aim is to help the company make informed decisions regarding loan approvals, minimizing the risk of defaults while maximizing profitable loan approvals.
 ### Dataset Used:
 The dataset contains comprehensive loan data from 2007 to 2011, encompassing applicant profiles, loan attributes, and outcomes, such as Fully Paid, Current, and Charged-off (defaulted) loans.
 
