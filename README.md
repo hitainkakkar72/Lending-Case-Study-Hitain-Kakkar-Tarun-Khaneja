@@ -21,10 +21,12 @@ The primary objective is to identify patterns within the dataset that can predic
 The dataset contains comprehensive loan data from 2007 to 2011, encompassing applicant profiles, loan attributes, and outcomes, such as Fully Paid, Current, and Charged-off (defaulted) loans.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Risk Indicators: Homeownership, income levels, DTI ratio, loan purpose, and borrower verification are crucial risk factors for loan defaults.
+- Targeted Approach: Prioritize higher-income applicants and loans for specific purposes like weddings over small businesses to decrease default rates.
+- Grade-Based Strategy: Focus on higher-grade applicants (e.g., "A" category) to improve business financial health and lower default rates.
+- Geographic Focus: Target applicants from lower-risk states (NE, IN, ID) while being cautious of higher-risk states (TN, NV) to mitigate default probabilities.
+- Risk Mitigation Practices: Implement strict applicant verification processes and offer shorter loan tenures to significantly reduce default risks.
+
 
 ## Technologies Used
 - Python
